@@ -63,7 +63,7 @@ export default function Pool() {
       <AppBody>
         <SwapPoolTabs active={'pool'} />
         <AutoColumn gap="lg" justify="center">
-          <ButtonPrimary id="join-pool-button" as={Link} style={{ padding: 16 }} to="/add/ETH">
+          <ButtonPrimary id="join-pool-button" as={Link} style={{ padding: 16 }} to="/add/BNB">
             <Text fontWeight={500} fontSize={20}>
               <TranslatedText translationId={100}>Add Liquidity</TranslatedText>
             </Text>
