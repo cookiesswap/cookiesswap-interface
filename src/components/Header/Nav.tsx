@@ -14,8 +14,11 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href="https://pancakeswap.info">
         Analytics
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/lottery">
-        <TranslatedText translationId={14}>Airdrop</TranslatedText>
+      <StyledAbsoluteLink href=".">
+        Airdrop
+      </StyledAbsoluteLink>
+      <StyledAbsoluteLink href=".">
+        Listing BSC
       </StyledAbsoluteLink>
     </StyledNav>
   )
