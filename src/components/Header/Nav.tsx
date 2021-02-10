@@ -17,8 +17,8 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href=".">
         Airdrop
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href=".">
-        Listing BSC
+      <StyledAbsoluteLink href="https://github.com/retjehnetwork/listing-BEP20/blob/master/readme.md">
+        Listing
       </StyledAbsoluteLink>
     </StyledNav>
   )

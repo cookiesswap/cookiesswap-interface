@@ -34,18 +34,15 @@ const HeaderRow = styled.div`
 
 const UpperSection = styled.div`
   position: relative;
-
   h5 {
     margin: 0;
     margin-bottom: 0.5rem;
     font-size: 1rem;
     font-weight: 400;
   }
-
   h5:last-child {
     margin-bottom: 0px;
   }
-
   h4 {
     margin-top: 0;
     font-weight: 500;
@@ -68,7 +65,6 @@ const AccountGroupingRow = styled.div`
   align-items: center;
   font-weight: 400;
   color: ${({ theme }) => theme.colors.text1};
-
   div {
     ${({ theme }) => theme.flexRowNoWrap}
     align-items: center;
@@ -86,7 +82,6 @@ const YourAccount = styled.div`
     margin: 0 0 1rem 0;
     font-weight: 400;
   }
-
   h4 {
     margin: 0;
     font-weight: 500;
@@ -101,7 +96,6 @@ const LowerSection = styled.div`
   background-color: ${({ theme }) => theme.colors.bg2};
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 20px;
-
   h5 {
     margin: 0;
     font-weight: 400;
@@ -114,14 +108,11 @@ const AccountControl = styled.div`
   justify-content: space-between;
   min-width: 0;
   width: 100%;
-
   font-weight: 500;
   font-size: 1.25rem;
-
   a:hover {
     text-decoration: underline;
   }
-
   p {
     min-width: 0;
     margin: 0;
