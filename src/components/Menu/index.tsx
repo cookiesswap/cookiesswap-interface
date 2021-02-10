@@ -80,7 +80,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/pancakeswap'
+const CODE_LINK = 'https://github.com/retjehnetwork'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
@@ -108,7 +108,7 @@ export default function Menu() {
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/PancakeSwap">
+          <MenuItem id="link" href="https://t.me/retjeh_network">
             <MessageCircle size={14} />
             <TranslatedText translationId={34}>Telegram</TranslatedText>
           </MenuItem>

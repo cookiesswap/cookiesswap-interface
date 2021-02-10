@@ -26,7 +26,6 @@ import { EN } from '../constants/localisation/languageCodes'
 import { LanguageContext } from '../hooks/LanguageContext'
 import { TranslationsContext } from '../hooks/TranslationsContext'
 import { allLanguages } from '../constants/localisation/languageCodes'
-import backimg from '../assets/images/bg.png'
 
 const AppWrapper = styled.div`
   display: flex;
@@ -61,12 +60,6 @@ const BodyWrapper = styled.div`
 
 const Marginer = styled.div`
   margin-top: 5rem;
-`
-
-const BackImage = styled.img`
-  position: fixed;
-  top: 5%;
-  width: 100%;
 `
 
 export default function App() {
@@ -136,7 +129,6 @@ export default function App() {
                 <Header />
               </HeaderWrapper>
               <BodyWrapper>
-                <BackImage src={backimg} alt="bg" />
                 <Popups />
                 <Web3ReactManager>
                   <Switch>
