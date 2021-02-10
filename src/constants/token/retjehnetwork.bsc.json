@@ -7,8 +7,8 @@
     "patch": 1
   },
   "tags": {},
-  "logoURI": "/images/coins/wbnb.png",
-  "keywords": ["pancake", "default"],
+  "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/wbnb.png",
+  "keywords": ["retjehnetwork", "default"],
   "tokens": [
     {
       "name": "Retjeh Network",
@@ -24,7 +24,7 @@
       "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "/images/coins/BUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/BUSD.png"
     },
     {
       "name": "WBNB Token",
@@ -39,7 +39,7 @@
       "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "/images/coins/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/ETH.png"
     },
     {
       "name": "BUSD Token",
@@ -47,7 +47,7 @@
       "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "/images/coins/BTC.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/BTC.png"
     },
     {
       "name": "BUSD Token",
@@ -55,7 +55,7 @@
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/BUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/BUSD.png"
     },
     {
       "name": "Ethereum Token",
@@ -63,7 +63,7 @@
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/ETH.png"
     },
     {
       "name": "BTCB Token",
@@ -71,7 +71,7 @@
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/BTC-icon.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/BTC-icon.png"
     },
     {
       "name": "Tether USD",
@@ -79,7 +79,7 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/USDT-icon.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/USDT-icon.png"
     },
     {
       "name": "Dai Token",
@@ -87,7 +87,7 @@
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/DAI-icon.png"
+      "logoURI": "https://raw.githubusercontent.com/retjehnetwork/listing-BEP20/master/assets/DAI-icon.png"
     },
     {
       "name": "Polkadot Token",
