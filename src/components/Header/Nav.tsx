@@ -14,7 +14,7 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href="https://pancakeswap.info">
         Analytics
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://github.com/retjehnetwork/telesc">
+      <StyledAbsoluteLink href="https://github.com/retjehnetwork/Airdrop">
         Airdrop
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://github.com/retjehnetwork/listing-BEP20/blob/master/readme.md">
