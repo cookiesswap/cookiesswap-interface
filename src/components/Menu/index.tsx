@@ -112,9 +112,9 @@ export default function Menu() {
             <MessageCircle size={14} />
             <TranslatedText translationId={34}>Telegram</TranslatedText>
           </MenuItem>
-          <MenuItem id="link" href="https://pancakeswap.info">
+          <MenuItem id="link" href="https://bscscan.com/token/0x87486c4baafeb1d3abd7eed3af5bdd3f26643a89">
             <PieChart size={14} />
-            Analytics
+            RET Info
           </MenuItem>
         </MenuFlyout>
       )}
