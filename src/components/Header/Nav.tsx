@@ -11,8 +11,8 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href="https://pancakeswap.finance/staking">
         <TranslatedText translationId={4}>Staking Cake</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.info">
-        Analytics
+      <StyledAbsoluteLink href="https://pancakeswap.info/token/0x87486C4BaAFeb1D3ABD7EeD3AF5BdD3f26643A89">
+        Chart
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://github.com/retjehnetwork/Airdrop">
         Airdrop
