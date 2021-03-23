@@ -23,7 +23,7 @@ export default {
     advancedBG: 'rgba(0,0,0,0.1)',
 
     //primary colors
-    primary1: '#24c7d6',
+    primary1: '#F9D697',
     primary4: '#376bad70',
     primary5: '#153d6f70',
 
@@ -32,6 +32,6 @@ export default {
     buttonText: '#ffffff',
 
     // secondary colors
-    secondary1: '#24c7d6'
+    secondary1: '#F9D697'
   }
 }

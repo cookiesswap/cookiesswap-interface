@@ -5,20 +5,20 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/farms">
-        <TranslatedText translationId={2}>Farm Cake</TranslatedText>
+      <StyledAbsoluteLink href="#">
+        <TranslatedText translationId={2}>Home</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/staking">
-        <TranslatedText translationId={4}>Staking Cake</TranslatedText>
+      <StyledAbsoluteLink href="#">
+        <TranslatedText translationId={2}>Farming</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.info/token/0x87486C4BaAFeb1D3ABD7EeD3AF5BdD3f26643A89">
+      <StyledAbsoluteLink href="#">
+        <TranslatedText translationId={4}>Staking</TranslatedText>
+      </StyledAbsoluteLink>
+      <StyledAbsoluteLink href="#">
         Chart
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://github.com/retjehnetwork/Airdrop">
-        Airdrop
-      </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://github.com/retjehnetwork/listing-BEP20/blob/master/readme.md">
-        Listing
+      <StyledAbsoluteLink href="#">
+        Whitepaper
       </StyledAbsoluteLink>
     </StyledNav>
   )
@@ -36,7 +36,7 @@ const StyledNav = styled.nav`
 `
 
 const StyledAbsoluteLink = styled.a`
-  color: #12aab5;
+  color: #F9B234;
   padding-left: 10px;
   padding-right: 10px;
   text-decoration: none;

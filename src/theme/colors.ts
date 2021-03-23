@@ -2,8 +2,8 @@ export const white = '#FFFFFF'
 export const black = '#000000'
 
 export const green = {
-  green1: '#27AE60',
-  green2: '#43d3db'
+  green1: '#FBCF82',
+  green2: '#F9D697'
 }
 
 export const red = {

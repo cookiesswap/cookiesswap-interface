@@ -10,7 +10,7 @@ const SunIcon: React.FC = () => {
       height="20"
       viewBox="0 0 24 24"
       fill="none"
-      color="#F5F3F3"
+      color="#A8534B"
       stroke="currentColor"
       strokeWidth="2"
       strokeLinecap="round"
