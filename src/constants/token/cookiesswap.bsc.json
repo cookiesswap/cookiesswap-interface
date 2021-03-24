@@ -1,6 +1,6 @@
 {
   "name": "COOKIES",
-  "timestamp": "2020-08-25T15:41:29.665Z",
+  "timestamp": "2021-03-25T15:41:29.665Z",
   "version": {
     "major": 1,
     "minor": 3,
@@ -55,6 +55,173 @@
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "chainId": 56,
       "decimals": 18
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "BakeryToken",
+      "symbol": "BAKE",
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/bakeryswap_32.png"
+    },
+    {
+      "name": "Burger Swap",
+      "symbol": "BURGER",
+      "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/burgerswap_32.png"
+    },
+    {
+      "name": "Dego Finance",
+      "symbol": "DEGO",
+      "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/dego_32.png"
+    },
+    {
+      "name": "Helmet Insure",
+      "symbol": "HELMET",
+      "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/helmet_32.png"
+    },
+    {
+      "name": "Linear Token",
+      "symbol": "LINA",
+      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13786/small/5-q58tav_400x400.jpg" 
+    },
+    {
+      "name": "Safepal Token",
+      "symbol": "SFP",
+      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/safepal_32.png"
+    },
+    {
+      "name": "Swirge",
+      "symbol": "SWGb",
+      "address": "0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/swirge_32.png"
+    },
+    {
+      "name": "JulSwap",
+      "symbol": "JULD",
+      "address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/justliquidity-juld_32.png"
+    },
+    {
+      "name": "Yieldwatch",
+      "symbol": "WATCH",
+      "address": "0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/yieldwatch_32.png"
+    },
+    {
+      "name": "ApeSwap Finance",
+      "symbol": "BANANA",
+      "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/apeswap_32.png"
+    },
+    {
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14165/small/Logo200.png"
+    },
+    {
+      "name": "Alpha Finance",
+      "symbol": "ALPHA",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/alpha_32.png"
+    },
+    {
+      "name": "Beefy Finance",
+      "symbol": "BIFI",
+      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/beefy_32.png"
+    },
+    {
+      "name": "Bunny Token",
+      "symbol": "BUNNY",
+      "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/pancakebunny_32.png"
+    },
+    {
+      "name": "Lead Token",
+      "symbol": "LEAD",
+      "address": "0x2ed9e96edd11a1ff5163599a66fb6f1c77fa9c66",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12384/small/lead.jpg"
+    },
+    {
+      "name": "Berry Tributes",
+      "symbol": "BRY",
+      "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13987/small/berry.jpg"
+    },
+    {
+      "name": "DODO",
+      "symbol": "DODO",
+      "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/dodobird_32.png"
+    },
+    {
+      "name": "Kebab Token",
+      "symbol": "KEBAB",
+      "address": "0x7979f6c54eba05e18ded44c4f986f49a5de551c2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/kebabfinance_32.png"
+    },
+    {
+      "name": "Venus",
+      "symbol": "XVS",
+      "address":  "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/venus_32.png"
+    },
+    {
+      "name": "My Neighbor Alice",
+      "symbol": "ALICE",
+      "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14375/small/alice_logo.jpg"
     },
     {
       "name": "Binance-Peg USD Coin",
