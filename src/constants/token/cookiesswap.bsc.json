@@ -11,6 +11,14 @@
   "keywords": ["cookiesswap", "default"],
   "tokens": [
     {
+      "name": "cookiesswap",
+      "symbol": "COOK",
+      "address": "0x030839000f297a1471f83b568eeb51c10afeeefe",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cookiesswap/cookiesswap-info/main/192x192_App_Icon.png"
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
@@ -45,13 +53,6 @@
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
       "chainId": 56,
       "decimals": 18
     },
