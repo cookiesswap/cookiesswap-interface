@@ -80,7 +80,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/retjehnetwork'
+const CODE_LINK = 'https://github.com/cookiesswap'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
@@ -108,13 +108,13 @@ export default function Menu() {
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/retjeh_network">
+          <MenuItem id="link" href="https://t.me/Cookiesswap">
             <MessageCircle size={14} />
             <TranslatedText translationId={34}>Telegram</TranslatedText>
           </MenuItem>
-          <MenuItem id="link" href="https://bscscan.com/token/0x87486c4baafeb1d3abd7eed3af5bdd3f26643a89">
+          <MenuItem id="link" href="https://bscscan.com/token/0x030839000f297a1471f83b568eeb51c10afeeefe">
             <PieChart size={14} />
-            RET Info
+            COOK Info
           </MenuItem>
         </MenuFlyout>
       )}
