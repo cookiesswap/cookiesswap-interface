@@ -14,7 +14,7 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href="#">
         <TranslatedText translationId={4}>Staking</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="#">
+      <StyledAbsoluteLink href="https://info.cookiesswap.org/token/0x030839000f297a1471f83b568eeb51c10afeeefe">
         Chart
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="#">
