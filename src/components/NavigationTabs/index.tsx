@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { darken } from 'polished'
+import Settings from '../Settings'
 import { NavLink, Link as HistoryLink } from 'react-router-dom'
 
 import { ArrowLeft } from 'react-feather'
@@ -88,6 +89,7 @@ export function SwapPoolTabs({ active }: { active: 'swap' | 'pool' }) {
       <StyledAbsoluteLink id={`pool-nav-link`} target="_blank" href={'https://www.binance.org/en/panama'} >
         Bridge
       </StyledAbsoluteLink>
+            <Settings />
     </Tabs>
   )
 }

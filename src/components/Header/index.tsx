@@ -12,8 +12,6 @@ import { useActiveWeb3React } from '../../hooks'
 import { useETHBalances } from '../../state/wallet/hooks'
 
 import { YellowCard } from '../Card'
-import Settings from '../Settings'
-import LanguageSelectMenu from './LanguageSelectMenu'
 import Menu from '../Menu'
 import Nav from './Nav'
 import { useIsDarkMode } from '../../state/user/hooks'
@@ -164,8 +162,6 @@ export default function Header() {
             </AccountElement>
           </HeaderElement>
           <HeaderElementWrap>
-            <Settings />
-            <LanguageSelectMenu />
             <Menu />
           </HeaderElementWrap>
         </HeaderControls>
