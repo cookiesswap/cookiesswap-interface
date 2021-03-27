@@ -6,7 +6,7 @@ import { Text } from 'rebass'
 import styled from 'styled-components'
 
 import Logow from '../../assets/images/logow.png'
-import Logob from '../../assets/images/logob.png'
+import Logob from '../../assets/images/logow.png'
 
 import { useActiveWeb3React } from '../../hooks'
 import { useETHBalances } from '../../state/wallet/hooks'
@@ -16,7 +16,6 @@ import Settings from '../Settings'
 import LanguageSelectMenu from './LanguageSelectMenu'
 import Menu from '../Menu'
 import Nav from './Nav'
-import ThemeSwitch from './ThemeSwitch'
 import { useIsDarkMode } from '../../state/user/hooks'
 
 import { RowBetween } from '../Row'
@@ -166,7 +165,6 @@ export default function Header() {
           </HeaderElement>
           <HeaderElementWrap>
             <Settings />
-          {!isMobile && <ThemeSwitch />}
             <LanguageSelectMenu />
             <Menu />
           </HeaderElementWrap>
