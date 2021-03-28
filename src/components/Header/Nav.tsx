@@ -20,7 +20,7 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href="#">
         Launchpad
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="#">
+      <StyledAbsoluteLink href="https://drive.google.com/file/d/1nddkZoIxmsP0FdWAo5M81ZoKBgubYRyw/view">
         Whitepaper
       </StyledAbsoluteLink>
     </StyledNav>
