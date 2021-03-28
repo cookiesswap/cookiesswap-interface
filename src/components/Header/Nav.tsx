@@ -18,6 +18,9 @@ const Nav: React.FC = () => {
         Chart
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="#">
+        Launchpad
+      </StyledAbsoluteLink>
+      <StyledAbsoluteLink href="#">
         Whitepaper
       </StyledAbsoluteLink>
     </StyledNav>

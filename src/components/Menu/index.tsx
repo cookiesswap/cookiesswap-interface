@@ -96,6 +96,10 @@ export default function Menu() {
       </StyledMenuButton>
       {open && (
         <MenuFlyout>
+          <MenuItem id="link" href="https://info.cookiesswap.org/">
+            <PieChart size={14} />
+            Overview
+          </MenuItem>
           <MenuItem id="link" href="/">
             <Info size={14} />
             About
@@ -107,6 +111,10 @@ export default function Menu() {
           <MenuItem id="link" href={CODE_LINK}>
             <Code size={14} />
             Code
+          </MenuItem>
+          <MenuItem id="link" href="https://twitter.com/Cookiesswap">
+            <MessageCircle size={14} />
+            <TranslatedText translationId={34}>Twitter</TranslatedText>
           </MenuItem>
           <MenuItem id="link" href="https://t.me/Cookiesswap">
             <MessageCircle size={14} />
